@@ -1,11 +1,9 @@
-# React Starterpack
-*Contains webpack,babel,eslint,sass,react, and reactrouter*
+# Dartmouth Chatbot 
 
-[URL to the website](https://laughing-franklin-d9e5a6.netlify.app)
+This repository holds the code for a chatbot which answers questions about resources offered on campus at Dartmouth College.
 
-## What Worked Well
-The instructions were straightforward
+This was created as part of the final project for CS89.11: Cognitive Computing with Watson
 
-## What Didn't
-Nothing really
+Authors: Joe Zhang, Stuart Hayes, Manzi Bryan, Arij Elfaki.
 
+Special Thanks to Professor Charles Palmer
